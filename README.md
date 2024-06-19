@@ -1,5 +1,27 @@
-
 # Aplicação Java Spring Boot usando JPA
+
+## Web services com Spring Boot e JPA/Hibernate
+
+<p align="center">  
+      
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+    <img alt="Feito por prof.Nélio Alves" src="https://img.shields.io/badge/feito%20por-prof. Nélio Alves-%237519C1">
+  </a>
+
+  <div align="center">
+	  <a  href="https://www.udemy.com">
+		  <img src="https://github.com/JsnEvt/DataFrames/blob/main/assets/udemy_b25.png">
+	  </a>
+  </div>
+<p align="center">
+	<a href="https://www.udemy.com/course/java-curso-completo/?couponCode=KEEPLEARNING/">Visite a página deste curso na Udemy</a>
+</p>
+
+<h4 align="center"> 
+	🚧  Spring Boot / JPA / Hibernate - Concluído  🚧
+</h4>
+
+
 
 Este repositório contém uma aplicação desenvolvida em Java utilizando o framework Spring Boot e JPA (Java Persistence API), seguindo os ensinamentos do curso do professor Nélio Alves, disponível na plataforma Udemy.
 
