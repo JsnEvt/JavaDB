@@ -42,14 +42,14 @@ A aplicação exemplifica a criação de uma API RESTful com operações CRUD (C
 ### Tecnologias Utilizadas
 - **Java 11**: Linguagem de programação.
 - **Spring Boot 2.5**: Framework para criação de aplicações Java.
+- **JPA/Hibernate**: Mapeamento objeto-relacional.
+- **Maven**: Gerenciamento de dependências.
+- **H2 Database**: Banco de dados em memória para desenvolvimento e testes.
+- **Postman**: Ferramenta para teste de APIs.
+
 
 ## 🦸 Autor
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jason-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jason-everton/)](https://www.linkedin.com/in/jason-everton/)
 
 [![Gmail Badge](https://img.shields.io/badge/-jasonemsw10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jasonemsw10@gmail.com)](mailto:jasonemsw10@gmail.com)
-
-- **JPA/Hibernate**: Mapeamento objeto-relacional.
-- **Maven**: Gerenciamento de dependências.
-- **H2 Database**: Banco de dados em memória para desenvolvimento e testes.
-- **Postman**: Ferramenta para teste de APIs.
