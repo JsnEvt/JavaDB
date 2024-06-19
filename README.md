@@ -22,7 +22,6 @@
 </h4>
 
 
-
 Este repositório contém uma aplicação desenvolvida em Java utilizando o framework Spring Boot e JPA (Java Persistence API), seguindo os ensinamentos do curso do professor Nélio Alves, disponível na plataforma Udemy.
 
 ## Descrição do Projeto
@@ -43,6 +42,13 @@ A aplicação exemplifica a criação de uma API RESTful com operações CRUD (C
 ### Tecnologias Utilizadas
 - **Java 11**: Linguagem de programação.
 - **Spring Boot 2.5**: Framework para criação de aplicações Java.
+
+## 🦸 Autor
+
+[![Linkedin Badge](https://img.shields.io/badge/-Jason-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jason-everton/)](https://www.linkedin.com/in/jason-everton/)
+
+[![Gmail Badge](https://img.shields.io/badge/-jasonemsw10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jasonemsw10@gmail.com)](mailto:jasonemsw10@gmail.com)
+
 - **JPA/Hibernate**: Mapeamento objeto-relacional.
 - **Maven**: Gerenciamento de dependências.
 - **H2 Database**: Banco de dados em memória para desenvolvimento e testes.
